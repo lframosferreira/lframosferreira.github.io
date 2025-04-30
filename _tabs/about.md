@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-I'm Luís Felipe, a  software engineer at [Uber]. I previously worked as a data science intern at [SYDLE](https://www.sydle.com/) and as a embedded software intern at [Embraer](https://embraer.com/).
+I'm Luís Felipe, a  software engineer at [Uber](https://www.uber.com/us/en/about/). I previously worked as a data science intern at [SYDLE](https://www.sydle.com/) and as a embedded software intern at [Embraer](https://embraer.com/).
 
 I also worked as a research student under the guidance of Professor [Renato Vimieiro](https://dcc.ufmg.br/professor/renato-vimieiro/) at [SPEED Lab](https://dcc.ufmg.br/speed/) on a project about classifying heart diseases using electrocardiograms. You can learn more about the project in this [repository](https://github.com/paulohdscoelho/graph_neural_alchemist).
 
