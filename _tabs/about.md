@@ -4,17 +4,17 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-I'm Luís Felipe, a Computer Science undergraduate student at [UFMG](https://ufmg.br/) and a embedded software intern at [Embraer](https://embraer.com/). I previously worked as a data science intern at [SYDLE](https://www.sydle.com/).
+I'm Luís Felipe, a  software engineer at [Uber]. I previously worked as a data science intern at [SYDLE](https://www.sydle.com/) and as a embedded software intern at [Embraer](https://embraer.com/).
 
-I also worked as a research student under the guidance of Professor [Renato Vimieiro](https://dcc.ufmg.br/professor/renato-vimieiro/) at [SPEED Lab](https://dcc.ufmg.br/speed/) on a project about classifying heart diseases using electrocardiograms. You can learn more about the project in this post.
+I also worked as a research student under the guidance of Professor [Renato Vimieiro](https://dcc.ufmg.br/professor/renato-vimieiro/) at [SPEED Lab](https://dcc.ufmg.br/speed/) on a project about classifying heart diseases using electrocardiograms. You can learn more about the project in this [repository](https://github.com/paulohdscoelho/graph_neural_alchemist).
 
 ## Skills
 
 ### Programming Languages
 
-![](https://skillicons.dev/icons?i=c,cpp,python,rust,js,bash,julia)
+![](https://skillicons.dev/icons?i=c,cpp,python,go,rust,js,bash,julia)
 
-These are the main languages I have worked with, whether in university projects, internships, or personal projects. In the future, I hope to have the opportunity to learn more about and use other languages like [Java](https://www.java.com/en/) and [Zig](https://ziglang.org/).
+These are the main languages I have worked with, whether in university projects, internships, or personal projects. In the future, I hope to have the opportunity to learn more about and use other languages like [Zig](https://ziglang.org/).
 
 ### Other tools
 
@@ -30,12 +30,14 @@ I have used [VSCode](https://code.visualstudio.com/) for almost my entire career
 - English - Fluent
 - Spanish - Intermediate
 
+<!---
 ## Interests
 
 I am passionate about my studies and career. Math and Computer Science are incredibly beautiful fields, and I dedicate a lot of time to learning more about them.
 
-Outside of my professional interests, I enjoy watching movies, [anime](https://myanimelist.net/profile/lframosferreira) and playing video games.
+Outside of my professional interests, I enjoy watching movies and playing video games.
 
 I am also an avid cuber! My main cube is the Moyu RS3M 2020. My personal best for a single 3x3x3 solve is 7.03 seconds, and my average for five solves is 11.03 seconds. I am working hard to achieve a sub-10 average for five solves.
 
 Additionally, I love football. My favorite team is [Cruzeiro](https://www.cruzeiro.com.br/). I watch many matches from various championships, such as the Brasileirão, Libertadores, and Champions League.
+-->
